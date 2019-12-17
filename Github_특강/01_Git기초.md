@@ -58,5 +58,24 @@ Github의 로컬과 리뮤트를 연결하여 푸시 및 프로젝트를 관리�
 
 ## Clone
 
-git remote clone 은 다운로드가 아니라 clone을 해야한다
+git remote clone 은 다운로드가 아니라 clone을 해야한다.
 
+1. pull하기 위한 순서
+
+\- 클론(linking) 만들기 (download zip할 때, .git이 없어져 다시 카메라를 설치해도 다른 파일되기 때문)
+
+\- 로컬에서 push를 통해 remote 와 씽크를 맞춘다
+
+\- 집 도착 후 pull한 후에 작업
+
+\- 자기 전에 add commit push 3단계 진행 
+
+\- 회사 컴퓨터로 Pull
+
+.
+
+.
+
+.
+
+.(무한 루프)
